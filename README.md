@@ -30,13 +30,14 @@ Spotify_Clone/
 2. Navigate into the project folder:
    cd Spotify_Clone
 3. Open index.html in your browser.
-   ✨ Features
-🎧 Sidebar with Home, Search, and Library
 
-🎵 Playlist and Podcast suggestion boxes
+ ✨ Features
+ 🎧 Sidebar with Home, Search, and Library
 
-🎚️ Music Player layout at the bottom
+ 🎵 Playlist and Podcast suggestion boxes
 
-🌙 Dark-themed clean UI
+ 🎚️ Music Player layout at the bottom
 
-📱 Responsive layout structure (basic)
+ 🌙 Dark-themed clean UI
+ 
+ 📱 Responsive layout structure (basic)
