@@ -27,3 +27,16 @@ Spotify_Clone/
 1. Clone the repository:
    ```bash
    git clone https://github.com/dipaliugale/Spotify_Clone.git
+2. Navigate into the project folder:
+   cd Spotify_Clone
+3. Open index.html in your browser.
+   ✨ Features
+🎧 Sidebar with Home, Search, and Library
+
+🎵 Playlist and Podcast suggestion boxes
+
+🎚️ Music Player layout at the bottom
+
+🌙 Dark-themed clean UI
+
+📱 Responsive layout structure (basic)
